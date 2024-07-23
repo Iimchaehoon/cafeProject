@@ -1,0 +1,17 @@
+.main__slider {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid red;
+  align-items: center;
+  padding: 0 30px;
+  background-color: #e7e9e8;
+}
+
+.main__slider-btn {
+  transform: scale(1.5);
+  color: white;
+}
+
+.main__slider-text {
+  color: white;
+}

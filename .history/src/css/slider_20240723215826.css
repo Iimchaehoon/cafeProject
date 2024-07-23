@@ -1,0 +1,4 @@
+.main__slider {
+  display: flex;
+  justify-content: space-between;
+}

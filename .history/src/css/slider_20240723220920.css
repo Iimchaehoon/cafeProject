@@ -1,0 +1,28 @@
+.main__slider {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid red;
+  align-items: center;
+  padding: 0 30px;
+  background-color: #d3c9b5;
+}
+
+.main__slider-btn {
+  transform: scale(1.5);
+  color: white;
+}
+
+.main__slider-text {
+  color: white;
+}
+
+.main__slider-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main__slider-image-container {
+  width: 300px;
+  height: 500px;
+  border: 1px solid blue;
+}

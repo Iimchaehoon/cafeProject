@@ -1,0 +1,10 @@
+.main__slider {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid red;
+  align-items: center;
+}
+
+.main__slider-btn {
+  transform: scale(1.5);
+}
