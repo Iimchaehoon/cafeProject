@@ -1,0 +1,77 @@
+.header__top {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.header__nav-box {
+  width: 33%;
+}
+.header__title {
+  width: 33%;
+  font-size: 35px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.header__list-box {
+  display: flex;
+
+  height: 100%;
+  align-items: center;
+}
+.header__menu {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+  width: 33%;
+}
+.header__content {
+  margin: 0 20px;
+}
+/* 아래헤더 */
+.header__category {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+.header__cart-badge {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  width: 13px;
+  height: 13px;
+  padding: 2px;
+  position: absolute;
+  top: -13px;
+  right: -13px;
+}
+.header__content--badge-box {
+  position: relative;
+}
+.header__cart-badge span {
+  color: white;
+}
+.header__price-badge {
+  background-color: rgb(224, 221, 221);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  border-radius: 9%;
+  width: 55px;
+  height: 18px;
+  padding: 2px;
+  position: absolute;
+  top: 20px;
+  left: -20px;
+}
+.header__price-badge span {
+  color: white;
+}
+.header__content--badge-price {
+  position: relative;
+}

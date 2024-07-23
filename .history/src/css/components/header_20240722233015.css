@@ -1,0 +1,26 @@
+.header__top {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.header__nav-box {
+  width: 33%;
+  border: 1px solid red;
+}
+.header__title {
+  width: 33%;
+  border: 1px solid purple;
+  font-size: 100px;
+  font-weight: 100;
+  text-align: center;
+}
+
+.header__list-box {
+  display: flex;
+  border: 1px solid red;
+}
+.header__menu {
+  display: flex;
+  border: 1px solid blue;
+  width: 33%;
+}
