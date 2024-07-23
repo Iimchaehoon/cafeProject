@@ -1,8 +1,8 @@
 @import "reset.css";
 @import "components/header.css";
-@import url("https://fonts.googleapis.com/css2?family=Cute+Font&family=Jua&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cute+Font&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Noto+Sans+KR:wght@100..900&display=swap");
-@import url("./slider.css");
+
 body {
   font-family: "Nanum Gothic", sans-serif;
   margin: 0;
