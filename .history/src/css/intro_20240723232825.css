@@ -1,0 +1,10 @@
+.main__introduction {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main__intro-container-img,
+.main__intro-container {
+  width: 350px;
+  height: 350px;
+}

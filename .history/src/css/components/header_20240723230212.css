@@ -1,5 +1,6 @@
 .header {
   height: 20vh;
+  border: 1px solid red;
 }
 .header__top {
   display: flex;

@@ -1,0 +1,16 @@
+.main__introduction {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+.main__intro-container-img,
+.main__intro-container {
+  width: 350px;
+  height: 350px;
+  overflow: hidden;
+  margin: 0 20px;
+}
+.main__intro-image {
+  widht: 100%;
+}
