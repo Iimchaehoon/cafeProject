@@ -3,4 +3,5 @@
 @import "../components/header.css";
 @import "../slider.css";
 @import "../intro.css";
-@import "../monthbest.css";
+@import "../components/product-list.css";
+@import "../components/footer.css";
