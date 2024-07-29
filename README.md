@@ -1,2 +1,1 @@
-# cafeProject
- cafe24clone
+카페24클론코딩프로젝트
