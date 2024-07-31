@@ -1,0 +1,30 @@
+@import "../reset.css";
+@import "../common.css";
+@import "../components/header.css";
+@import "../components/footer.css";
+.login-wrapper {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  padding: 0 700px;
+  padding-top: 100px;
+}
+.login__title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+.login__text {
+  color: rgba(0, 0, 0, 0.7);
+  margin-bottom: 7px;
+}
+.login__form {
+  display: flex;
+  flex-direction: column;
+}
+.login__btn {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+}

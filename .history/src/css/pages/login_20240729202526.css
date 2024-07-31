@@ -1,0 +1,11 @@
+@import "../reset.css";
+@import "../common.css";
+@import "../components/header.css";
+@import "../components/footer.css";
+.login-wrapper {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  padding: 0 700px;
+  padding-top: 100px;
+}
