@@ -78,17 +78,19 @@
   border-radius: 5px;
   padding: 2px 4px;
   position: absolute;
+  left: 50%;
   transform: translateX(-50%);
-  left: -100%;
-  bottom: -15px;
-  animation: 2s ease-in-out infinite alternate up-down;
+  bottom: -20px;
+  animation: 2s infinite up-down;
 }
 @keyframes up-down {
   0% {
-    transform: translateY(5px);
+    transform: translateY(1px);
   }
-
+  50% {
+    transform: translateY(2px);
+  }
   100% {
-    transform: translateY(10px);
+    transform: translateY(3px);
   }
 }

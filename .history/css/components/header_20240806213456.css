@@ -85,10 +85,10 @@
 }
 @keyframes up-down {
   0% {
-    transform: translateY(5px);
+    transform: translateY(4px);
   }
 
   100% {
-    transform: translateY(10px);
+    transform: translateY(8px);
   }
 }
