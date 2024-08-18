@@ -3,28 +3,12 @@
   justify-content: space-between;
   align-items: center;
   padding: 30px;
+  background-color: #6b6a68;
   position: relative;
   height: 80vh;
   box-sizing: border-box;
 }
-.main__slider {
-  background: linear-gradient(-45deg, #cccccc, #999999, #6b6b6b, #000000);
-  background-size: 400% 400%;
-  animation: gradient 7s ease-in-out infinite;
-  height: 100vh;
-}
 
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
 .main__slider-btn {
   transform: scale(1.5);
   color: white;

@@ -10,7 +10,7 @@
 .main__slider {
   background: linear-gradient(-45deg, #cccccc, #999999, #6b6b6b, #000000);
   background-size: 400% 400%;
-  animation: gradient 7s ease-in-out infinite;
+  animation: gradient 5s ease infinite;
   height: 100vh;
 }
 

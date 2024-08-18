@@ -8,9 +8,9 @@
   box-sizing: border-box;
 }
 .main__slider {
-  background: linear-gradient(-45deg, #cccccc, #999999, #6b6b6b, #000000);
+  background: linear-gradient(-45deg, #faf9f9, #b8b8b8, #818181, #000000);
   background-size: 400% 400%;
-  animation: gradient 7s ease-in-out infinite;
+  animation: gradient 1.5s ease infinite;
   height: 100vh;
 }
 
